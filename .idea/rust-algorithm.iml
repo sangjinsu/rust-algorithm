@@ -10,6 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/boj/math/boj_2739/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/boj/implement/boj_10807/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/boj/implement/boj_10871/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj/implement/boj_5597/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj/implement/boj_2744/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boj/math/boj_2738/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/boj/math/boj_11382/target" />
       <excludeFolder url="file://$MODULE_DIR$/boj/math/boj_2040/target" />
       <excludeFolder url="file://$MODULE_DIR$/boj/implement/boj_2741/target" />
@@ -17,6 +20,9 @@
       <excludeFolder url="file://$MODULE_DIR$/boj/implement/boj_2438/target" />
       <excludeFolder url="file://$MODULE_DIR$/boj/implement/boj_10871/target" />
       <excludeFolder url="file://$MODULE_DIR$/boj/implement/boj_10807/target" />
+      <excludeFolder url="file://$MODULE_DIR$/boj/implement/boj_5597/target" />
+      <excludeFolder url="file://$MODULE_DIR$/boj/math/boj_2738/target" />
+      <excludeFolder url="file://$MODULE_DIR$/boj/implement/boj_2744/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
